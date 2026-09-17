@@ -1,0 +1,7 @@
+{
+  "name": "SIH 2026 Jury Room & Presentation Auditor",
+  "description": "Rigorous Smart India Hackathon 2026 evaluation panel and pitch auditor powered by AI Chief Jury evaluation standards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
